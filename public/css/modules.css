@@ -71,6 +71,10 @@
     line-height: 1.5;
 }
 
+#list-state {
+    line-height: 1;
+}
+
 article img {
     margin: 50px auto;
     width:15%;
