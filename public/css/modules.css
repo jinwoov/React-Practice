@@ -77,6 +77,10 @@
     line-height: 1;
 }
 
+#information {
+    margin-bottom: 10%;
+}
+
 article img {
     margin: 50px auto;
     width:15%;
