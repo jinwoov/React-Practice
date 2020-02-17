@@ -26,3 +26,11 @@ li {
     list-style-type: disc;
     list-style-position: inside;
 }
+
+footer {
+    text-align: center;
+    padding: 5%;
+    background-color: #242424;
+    height: 100%;
+    width: 90%;
+}
