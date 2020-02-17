@@ -1,0 +1,28 @@
+nav {
+    background-color: #313131;
+    padding: 2%;
+    position: relative;
+}
+
+main {
+    text-align: center;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* header {
+    position: fixed;
+    width: 100%;
+} */
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+li {
+    list-style-type: disc;
+    list-style-position: inside;
+}
